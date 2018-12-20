@@ -5,7 +5,7 @@
  * Class ExportCSV
  */
 class ExportCSV{
-    
+
     /**
      * 需要生成csv的json文件，文件规则多个文件按顺序，第一个为0 0response.json 1response.json
      * @var string
